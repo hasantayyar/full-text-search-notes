@@ -1,6 +1,10 @@
 
 Full-Text Search Engines Quick Look
 ======================
+![cc](http://i.creativecommons.org/l/by-nc/3.0/88x31.png) 
+[@htayyar](http://twitter.com/htayyar)
+
+
 
  - ELASTICSEARCH
  - SOLR & LUCENE
